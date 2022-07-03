@@ -1,0 +1,48 @@
+body {
+  margin: 0;
+}
+
+.col {
+  width: 15%;
+  background: blue;
+}
+
+table {
+  width: 100%;
+}
+
+img {
+  display: block;
+  margin: 0 auto 30px auto;
+}
+
+p {
+  text-align: center;
+  color: blue;
+  padding: 10px;
+}
+
+td {
+  text-align: center;
+  color: blue;
+}
+
+h1 {
+  font-size: 15px;
+  font-weight: 100;
+  color: black;
+  margin-top: 40px;
+}
+
+u {
+  color: red;
+}
+
+.unique {
+  margin-top: 40px;
+  padding: 0;
+}
+
+footer {
+  color: black;
+}
